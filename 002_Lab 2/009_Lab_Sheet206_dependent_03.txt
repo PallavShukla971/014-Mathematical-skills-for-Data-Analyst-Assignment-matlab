@@ -1,0 +1,142 @@
+diary on
+---------------------Question Start---------------------
+[Warning: Matrix is singular to working precision.] 
+
+W =
+
+   NaN
+  -Inf
+   Inf
+
+Displaying W in an officaila way
+   NaN
+  -Inf
+   Inf
+
+this is the empty set below
+this is R displayed below
+     1     1     4
+     1     0     2
+     0     1     1
+
+this is S displayed below
+    14
+    12
+    -6
+
+Norm of the solution vector(S) 1 = 19.390719 
+Norm of the solution vector(T) 1 = 19.390719 
+this is R displayed below
+    1.0000    1.0000    3.5000
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+    26
+    18
+   -12
+
+Norm of the solution vector(S) 2 = 33.823069 
+Norm of the solution vector(T) 2 = 33.823069 
+this is R displayed below
+    1.0000    1.0000    3.2500
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+    50
+    30
+   -24
+
+Norm of the solution vector(S) 3 = 63.055531 
+Norm of the solution vector(T) 3 = 63.055531 
+this is R displayed below
+    1.0000    1.0000    3.1250
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+    98
+    54
+   -48
+
+Norm of the solution vector(S) 4 = 121.753850 
+Norm of the solution vector(T) 4 = 121.753850 
+this is R displayed below
+    1.0000    1.0000    3.0625
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+   194
+   102
+   -96
+
+Norm of the solution vector(S) 5 = 239.282260 
+Norm of the solution vector(T) 5 = 239.282260 
+this is R displayed below
+    1.0000    1.0000    3.0312
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+   386
+   198
+  -192
+
+Norm of the solution vector(S) 6 = 474.409106 
+Norm of the solution vector(T) 6 = 474.409106 
+this is R displayed below
+    1.0000    1.0000    3.0156
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+   770
+   390
+  -384
+
+Norm of the solution vector(S) 7 = 944.698894 
+Norm of the solution vector(T) 7 = 944.698894 
+this is R displayed below
+    1.0000    1.0000    3.0078
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+        1538
+         774
+        -768
+
+Norm of the solution vector(S) 8 = 1885.296794 
+Norm of the solution vector(T) 8 = 1885.296794 
+this is R displayed below
+    1.0000    1.0000    3.0039
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+        3074
+        1542
+       -1536
+
+Norm of the solution vector(S) 9 = 3766.501825 
+Norm of the solution vector(T) 9 = 3766.501825 
+this is R displayed below
+    1.0000    1.0000    3.0020
+    1.0000         0    2.0000
+         0    1.0000    1.0000
+
+this is S displayed below
+        6146
+        3078
+       -3072
+
+Norm of the solution vector(S) 10 = 7528.916522 
+Norm of the solution vector(T) 10 = 7528.916522 
+   1.0e+03 *
+
+    0.0194    0.0338    0.0631    0.1218    0.2393    0.4744    0.9447    1.8853    3.7665    7.5289
+
+---------------------Question End---------------------
+diary off

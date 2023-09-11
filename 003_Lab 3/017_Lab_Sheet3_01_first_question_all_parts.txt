@@ -1,0 +1,44 @@
+diary on
+f1 = @(x) 5
+
+f1 =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)5
+
+first_der(f1,0,0.0001,0.01)
+
+ans =
+
+     0
+
+f2 = @(x) x^2 -x;
+first_der(f2,0,0.0001,0.01)
+
+ans =
+
+    -1
+
+f3 = @(x) exp(2*x);
+first_der(f3,0,0.0001,0.01)
+
+ans =
+
+    2.0000
+
+f4 = @(x) abs(x)
+
+f4 =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)abs(x)
+
+first_der(f4,0,0.0001,0.01)
+
+ans =
+
+     0
+
+diary off

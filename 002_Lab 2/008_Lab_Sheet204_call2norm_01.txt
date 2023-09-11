@@ -1,0 +1,14 @@
+diary on
+call2norm([ 3; 2; -1; -2])
+
+ans =
+
+    4.2426
+
+call2norm([ 2; 9; -4; -6; 7; 0; 1])
+
+ans =
+
+   13.6748
+
+diary off
